@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Loki</string>
+    <string name="decrease"><![CDATA[<]]></string>
+    <string name="increase"><![CDATA[>]]></string>
 </resources>

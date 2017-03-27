@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:layout_margin="20dp"
+        android:layout_margin="40dp"
         android:background="@color/colorPrimary"
         android:gravity="center_horizontal|bottom"
         android:padding="20dp"
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/a"
         android:layout_marginLeft="77dp"
-        android:text="Increase"
+        android:text="@string/increase"
         android:textSize="30sp" />
 
     <Button
@@ -34,7 +34,7 @@
         android:layout_below="@id/a"
         android:layout_marginLeft="50dp"
         android:layout_toRightOf="@id/b"
-        android:text="Decrease"
+        android:text="@string/decrease"
         android:textSize="30sp" />
 
 </RelativeLayout>
